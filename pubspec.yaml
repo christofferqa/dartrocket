@@ -11,5 +11,3 @@ dependencies:
       ref: 0.11.0-no_await
 dev_dependencies:
   unittest: any
-  runtime:
-    path: ../../../web_runtime
